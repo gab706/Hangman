@@ -1,0 +1,12 @@
+{
+    "narrator": {
+        "colour": "CYAN",
+        "name": "Buggy"
+    },
+    "settings": {
+        "attempts": {
+            "maxAttemptAmount": 13,
+            "minAttemptAmount": 6
+        }
+    }
+}
