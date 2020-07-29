@@ -1,1 +1,1 @@
-# IST-Assignment
+# Hangman
